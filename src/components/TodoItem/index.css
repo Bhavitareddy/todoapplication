@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+
+button {
+  background-color: white;
+  color: red;
+  border: 2px solid red;
+  border-radius: 10px 15px;
+}
+p {
+  color: black;
+  font-size: 18px;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc23a;
+  padding: 40px;
+}
+.todoContainer {
+  background-color: white;
+  border-radius: 15px;
+}
+h1 {
+  color: #ff8542;
+  text-align: center;
+  padding-top: 20px;
+}
+input[type='submit'] {
+  background-color: green;
+  padding: 0px 20px 0px 20px;
+}
